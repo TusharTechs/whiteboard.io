@@ -6,13 +6,8 @@ import Public from "./components/Public";
 const socket = io("http://localhost:4000");
 
 const App: React.FC = () => {
-  // const isLogin = useAuth();
-  // return isLogin ? <Whiteboard socket={socket} /> : <Public />
-  return (
-    <div>
-      <Whiteboard socket={socket} />
-    </div>
-  );
+  const isLogin = useAuth();
+  return isLogin ? <Whiteboard socket={socket} /> : <Public />
 };
 
 export default App;
