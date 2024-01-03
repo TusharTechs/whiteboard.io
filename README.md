@@ -24,24 +24,31 @@ Whiteboard.IO is a collaborative online whiteboard application built with React,
 ## Demo
 
 1. Keycloak Login Page
+
 ![Screenshot_16](https://github.com/TusharTechs/whiteboard.io/assets/56952465/7154a5c2-8f11-42d4-845f-4847a757b9e2)
 
-2. Image Prediction with a pre-trained ML model
+3. Image Prediction with a pre-trained ML model
+
 ![Screenshot_11](https://github.com/TusharTechs/whiteboard.io/assets/56952465/fc39040b-845c-4069-9498-d865481be175)
 
-3. Whiteboard to draw on with different brush sizes and colors
+5. Whiteboard to draw on with different brush sizes and colors
+
 ![Screenshot_12](https://github.com/TusharTechs/whiteboard.io/assets/56952465/2a13ce8b-1221-45a1-9911-e21d5b2afccb)
 
-4. Real-time collaboration whiteboard
+7. Real-time collaboration whiteboard
+
 ![Screenshot_13](https://github.com/TusharTechs/whiteboard.io/assets/56952465/f5a794ba-8629-4470-ab4c-5ebe0952bd30)
 
-5. Real-time Livechat with Socket.IO
+9. Real-time Livechat with Socket.IO
+
 ![Screenshot_14](https://github.com/TusharTechs/whiteboard.io/assets/56952465/464b6258-15b9-49c4-9a7a-43989fc55150)
 
-6. Recording the screen with Media Recorder API.
+11. Recording the screen with Media Recorder API
+
 ![Screenshot_15](https://github.com/TusharTechs/whiteboard.io/assets/56952465/d65537e2-7b25-45d9-bee1-58688a08e5b5)
 
-7. Responsiveness on all screen sizes.
+13. Responsiveness on all screen sizes
+
 ![Screenshot_17](https://github.com/TusharTechs/whiteboard.io/assets/56952465/a562797e-cebc-4336-b19c-713d34cdf663)
 
 ## Installation
@@ -86,4 +93,8 @@ Contributions are welcome! To contribute to Whiteboard.IO, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Thank you for choosing **Whiteboard.io** and we hope you had a great experience. If you have any questions or need further assistance, please don't hesitate to contact. We hope you find our application both helpful and user-friendly!
