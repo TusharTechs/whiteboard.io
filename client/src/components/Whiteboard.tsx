@@ -387,6 +387,8 @@ const Whiteboard: React.FC<WhiteboardProps> = ({ socket }) => {
         >
           <GoDotFill />
         </button>
+      </div>
+      <div className="my-3 d-flex justify-content-center align-items-center">
         <button
           className="btn btn-outline-secondary me-2 btn-sm"
           onClick={() => scrollAndPerformOperation("saveImage")}
